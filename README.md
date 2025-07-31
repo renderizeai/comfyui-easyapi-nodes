@@ -16,7 +16,7 @@ Method 2: In the root directory of your ComfyUI install, run:
 
 ```
 cd custom_nodes
-git clone https://github.com/lldacing/comfyui-easyapi-nodes.git
+git clone https://github.com/renderizeai/comfyui-easyapi-nodes.git
 cd comfyui-easyapi-nodes
 pip install -r requirements.txt
 ```
